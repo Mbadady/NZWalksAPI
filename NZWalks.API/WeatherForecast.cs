@@ -31,6 +31,10 @@ public class WeatherForecast
     // 3. Serilog.Sinks.Console - this or 4
     // 4. Serilog.Sinks.File
 
+    // Versioning
+    // 1. Microsoft.AspNetCore.Mvc.Versioning
+    // 2. Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer
+
 
 }
 
